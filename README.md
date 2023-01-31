@@ -2,6 +2,9 @@
 
 <p>This is a basic converter that will convert feet and inch into meters.</p>
 
-How to use?
-1. User will enter value in feet and inch.
-2. Click the 'convert' button once user had entered the value.
+<h5>How to use?</h5>
+
+<ol>
+  <li>User will enter value in feet and inch.</li>
+  <li>Click the 'convert' button once user had entered the value.</li>
+</ol>
